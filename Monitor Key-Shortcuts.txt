@@ -1,0 +1,11 @@
+Mouse interaction will work like touching the screen. 
+
+Mouse wheel movements work for scrolling. 
+
+Keyboard inputs are accepted too.
+
+Fullscreen 	Ctrl-f
+Biggest View	Ctrl-g
+Normal View	Ctrl-x
+Back		Ctrl-b or Esc
+Notifications	Ctrl-n

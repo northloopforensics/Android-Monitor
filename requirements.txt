@@ -1,0 +1,6 @@
+imutils==0.5.4
+numpy==1.21.6
+opencv_python_headless==4.5.1.48
+Pillow==9.2.0
+psutil==5.9.1
+PyAutoGUI==0.9.53

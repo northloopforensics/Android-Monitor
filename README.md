@@ -5,10 +5,18 @@ Android-Monitor allows the user to stream an Android device screen to their PC. 
 
 To prepare the Android device, enable developer options and turn on USB Debugging.  It is highly recommended to enable "Stay Awake" under developer options as well. 
 
-In addition to keyboard and mouse events, Android-Monitor has built in shortcut keys:
+In addition to keyboard and mouse events, Android-Monitor has built in shortcut keys. These are helpful with physical buttons or Android buttons not visible on the device display.
 
-Fullscreen 	  Ctrl-f
-Biggest View	Ctrl-g
-Normal View	  Ctrl-x
-Back		      Ctrl-b or Esc
-Notifications	Ctrl-n
+Fullscreen...............Ctrl-f
+
+Biggest View.........Ctrl-g
+
+Normal View.........Ctrl-x
+
+Back..........................Ctrl-b or Esc
+
+Notifications..........Ctrl-n
+
+
+
+![alt text](https://user-images.githubusercontent.com/73806121/178154118-7b831824-335d-418d-a48b-76871820fd4a.png)
